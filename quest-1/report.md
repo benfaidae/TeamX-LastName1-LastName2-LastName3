@@ -31,7 +31,7 @@ YYYY-MM-DD
 
 ## Reminders
 
-- Please remember to post a link to this report.md file on [Piazza](https://piazza.com/bu/fall2019/ec444/home) including references to each team member.
-- Video recording not to exceed 90s
+- Video recording in landscape not to exceed 90s
 - Each team member appears in video
+- Make sure video permission is set accessible to the instructors
 - Repo is private
