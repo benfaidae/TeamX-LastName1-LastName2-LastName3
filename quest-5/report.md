@@ -1,14 +1,35 @@
 # Quest Name
 Authors: FirstName1 LastName1, FirstName2 LastName2, FirstName3 LastName 3
 
-YYYY-MM-DD
+Date: YYYY-MM-DD
+-----
 
 ## Summary
 
 
+## Self-Assessment
 
-## Evaluation Criteria
+### Objective Criteria
 
+| Objective Criterion | Rating | Max Value  | 
+|---------------------------------------------|:-----------:|:---------:|
+| Objective One |  |  1     | 
+| Objective Two |  |  1     | 
+| Objective Three |  |  1     | 
+| Objective Four |  |  1     | 
+| Objective Five |  |  1     | 
+| Objective Six |  |  1     | 
+| Objective Seven |  |  1     | 
+
+
+### Qualitative Criteria
+
+| Qualitative Criterion | Rating | Max Value  | 
+|---------------------------------------------|:-----------:|:---------:|
+| Quality of solution |  |  5     | 
+| Quality of report.md including use of graphics |  |  3     | 
+| Quality of code reporting |  |  3     | 
+| Quality of video presentation |  |  3     | 
 
 
 ## Solution Design
@@ -16,22 +37,17 @@ YYYY-MM-DD
 
 
 ## Sketches and Photos
-<center><img src="./images/example.png" width="70%" /></center>  
+<center><img src="./images/ece444.png" width="25%" /></center>  
 <center> </center>
 
 
 ## Supporting Artifacts
-- [Link to repo]()
-- [Link to video demo]()
+- [Link to video demo](). Not to exceed 120s
 
+
+## Modules, Tools, Source Used Including Attribution
 
 ## References
 
 -----
 
-## Reminders
-
-- Video recording in landscape not to exceed 90s
-- Each team member appears in video
-- Make sure video permission is set accessible to the instructors
-- Repo is private
